@@ -5,3 +5,6 @@ C:\Users\Jamil\Documents\Exercises\Excersises\bin\Debug\Excersises.pdb
 C:\Users\Jamil\Documents\Exercises\Excersises\obj\Debug\Excersises.csprojResolveAssemblyReference.cache
 C:\Users\Jamil\Documents\Exercises\Excersises\obj\Debug\Excersises.exe
 C:\Users\Jamil\Documents\Exercises\Excersises\obj\Debug\Excersises.pdb
+C:\Users\Admin\Documents\School\Exercises\Excersises\bin\Debug\Excersises.exe.config
+C:\Users\Admin\Documents\School\Exercises\Excersises\obj\Debug\Excersises.exe
+C:\Users\Admin\Documents\School\Exercises\Excersises\obj\Debug\Excersises.pdb

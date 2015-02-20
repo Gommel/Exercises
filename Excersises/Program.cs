@@ -35,8 +35,11 @@ namespace Excersises
             Console.WriteLine("Blue=1\nGreen=2\nBrown=3\nBlack=4");
             eyecolor = Console.ReadLine();
 
-            Console.WriteLine("What is your haircolor?");
-            haircolor = Console.ReadLine();
+            do
+            {
+                Console.WriteLine("What is your haircolor? (white, blonde, red, brown, grey, black");
+                haircolor = Console.ReadLine();
+            } while (haircolor != "black" || haircolor != "white" || haircolor != "blonde" || haircolor != "red" || haircolor != "brown" || haircolor != "brown" || haircolor != "grey");
 
             Console.WriteLine("What is your relationship status?\nC\nV\nd\nm");
             relationship = Console.ReadLine();
