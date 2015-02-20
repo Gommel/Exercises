@@ -24,7 +24,7 @@ namespace Excersises
             gender = Console.ReadLine();
 
             Console.WriteLine("How tall are you?");
-            height = double.TryParse(Console.ReadLine());
+            height = double.TryParse(Console.ReadLine()); a
 
 
             
