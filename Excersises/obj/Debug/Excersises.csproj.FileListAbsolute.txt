@@ -1,2 +1,7 @@
 C:\Users\Jamil\Documents\Visual Studio 2013\Projects\CharlesandTeacher\Excersises\Excersises\bin\Debug\Excersises.exe.config
 C:\Users\Jamil\Documents\Exercises\Excersises\bin\Debug\Excersises.exe.config
+C:\Users\Jamil\Documents\Exercises\Excersises\bin\Debug\Excersises.exe
+C:\Users\Jamil\Documents\Exercises\Excersises\bin\Debug\Excersises.pdb
+C:\Users\Jamil\Documents\Exercises\Excersises\obj\Debug\Excersises.csprojResolveAssemblyReference.cache
+C:\Users\Jamil\Documents\Exercises\Excersises\obj\Debug\Excersises.exe
+C:\Users\Jamil\Documents\Exercises\Excersises\obj\Debug\Excersises.pdb
